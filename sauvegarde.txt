@@ -1,0 +1,12 @@
+------EEEEE
+/NNNNN\EEEE
+/NNNNNN\EEE
+/..NNN..\EE
+/........\E
+ ......... 
+D\......../
+EC\..BBB../
+EEB\BBBBBB/
+EEEA\BBBBB/
+EEEEE------
+14 14 N
